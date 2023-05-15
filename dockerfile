@@ -1,6 +1,6 @@
 FROM node:18.12.1
 
-# Create app directory
+# Create app directory 
 WORKDIR /usr/src/app
 
 # Copy app
